@@ -1,0 +1,7 @@
+{
+  "name": "the-search",
+  "version": "0.0.1",
+  "dependencies": {
+    "phaser": "^2.4.4"
+  }
+}
